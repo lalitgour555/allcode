@@ -1,0 +1,16 @@
+.btn{
+    height: 45px;
+    width: 105px;
+    background-color: blue;
+    border-radius: 10px;
+    margin: 10px;
+    color: white;
+}
+.form{
+    margin: auto;
+    text-align: center;
+}
+.input{
+
+    padding: 5px;
+}
